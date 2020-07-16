@@ -1,8 +1,31 @@
 .notes {
     color: deepskyblue;
+    border-bottom: grey;
+    border-bottom-style: solid;
 }
 
 h1{
     color: deepskyblue;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+body{
+    padding-left: 55px;
+}
+footer{
+    text-align: center;
+    color: grey;
+}
+.date {
+    color: grey;
+    text-align: center;
+    padding: 10px;
+    border-bottom: grey;
+    border-top: grey;
+    border-bottom-style: solid;
+    border-top-style: solid;
     
 }
